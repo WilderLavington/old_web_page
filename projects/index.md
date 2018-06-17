@@ -11,7 +11,7 @@ These are a few of the projects that I have been apart of over the last couple o
 [Neural Networks Versus Principal Component Analysis in Facial Recognition](http://stackoverflow.com)   
 [Financial Time Series Modeling](http://stackoverflow.com)  
 ## 2015
-[Fluid Flow Over a Flat Plate: Kinematic Viscosity and Heat Diusion](http://stackoverflow.com)  
+[Fluid Flow Over a Flat Plate: Kinematic Viscosity and Heat Diffusion](http://stackoverflow.com)  
 [Modeling a Non-adiabatic Explosion](http://stackoverflow.com)  
 ## 2014
 [Applications of Spectral Clustering in Image Segmentation](http://stackoverflow.com)  
