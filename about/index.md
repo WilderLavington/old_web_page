@@ -50,10 +50,7 @@ I also love traveling, but hate taking pictures. Here a are a few pictures from 
 
 Ukraine 
 
-<img src="/assets/ukraine/ukraine1.jpg"  width="360" height="360">
-<img src="/assets/ukraine/ukraine2.jpg"  width="360" height="360">
-<img src="/assets/ukraine/ukraine3.jpg"  width="360" height="360">
-<img src="/assets/ukraine/ukraine4.jpg"  width="360" height="360">
+<img src="/assets/ukraine/ukraine1.jpg"  width="360" height="360"><img src="/assets/ukraine/ukraine2.jpg"  width="360" height="360"><img src="/assets/ukraine/ukraine3.jpg"  width="360" height="360"><img src="/assets/ukraine/ukraine4.jpg"  width="360" height="360">
 
 Ecuador
 
