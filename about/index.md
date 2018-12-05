@@ -48,14 +48,13 @@ Top ten bucket list destinations:
 # Traveling 
 I also love traveling, here are a few pictures from my travels:
 
-Ukraine 
+## Ukraine 
 
-<img src="/assets/ukraine/ukraine1.jpg"  width="360" height="360"><img src="/assets/ukraine/ukraine2.jpg"  width="360" height="360"><img src="/assets/ukraine/ukraine3.jpg"  width="360" height="360"><img src="/assets/ukraine/ukraine4.jpg"  width="360" height="360">
+<img src="/assets/ukraine/ukraine2.jpg"  width="360" height="360"><img src="/assets/ukraine/ukraine3.jpg"  width="360" height="360"><img src="/assets/ukraine/ukraine4.jpg"  width="360" height="360">
 
-Ecuador
+## Ecuador
 
-<img src="/assets/ecuador/ecuador1.jpg"  width="360" height="360"><img src="/assets/ecuador/ecuador2.jpg"  width="360" height="360"><img src="/assets/ecuador/ecuador4.jpg"  width="360" height="360"><img src="/assets/ecuador/ecuador6.jpg"  width="360" height="360">
-<img src="/assets/ecuador/ecuador3.jpg"  width="720" height="360">
+<img src="/assets/ecuador/ecuador1.jpg"  width="360" height="360"><img src="/assets/ecuador/ecuador2.jpg"  width="360" height="360"><img src="/assets/ecuador/ecuador4.jpg"  width="360" height="360">
 
 Columbia
 
