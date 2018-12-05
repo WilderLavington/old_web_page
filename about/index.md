@@ -46,7 +46,7 @@ Top ten bucket list destinations:
 ---
 
 # Traveling 
-I also love traveling, but hate taking pictures. Here a are a few pictures from my travels:
+I also love traveling, here are a few pictures from my travels:
 
 Ukraine 
 
