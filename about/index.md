@@ -51,11 +51,11 @@ I also love traveling, but hate taking pictures. Here a are a few pictures from 
 Ukraine 
 
 Ecuador
+
 <img src="/assets/ecuador/ecuador1.jpg"  width="360" height="360">
 <img src="/assets/ecuador/ecuador2.jpg"  width="360" height="360">
 <img src="/assets/ecuador/ecuador3.jpg"  width="360" height="360">
 <img src="/assets/ecuador/ecuador4.jpg"  width="360" height="360">
-<img src="/assets/ecuador/ecuador5.jpg"  width="360" height="360">
 <img src="/assets/ecuador/ecuador6.jpg"  width="360" height="360">
 
 Columbia
