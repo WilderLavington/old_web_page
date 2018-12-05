@@ -7,7 +7,7 @@ My project under Prof. Lladser primarily focused modeling a specific biological 
 
 ---
 
-After completing my degree at the University of Colorado Boulder, I was accepted to the department of computer science at the University of British Columbia in Vancouver. My current research focuses on creating more princpled gradient based policy optimization algorithms for reinforcement learning. I beleive that by viewing [reinforcement learning as statistical inference](https://arxiv.org/pdf/1805.00909.pdf), we can improve our understanding of optimization withing RL. If you would like to get a better idea of the kinds of papers that I am reading through at the moment, check out [my current reading list]().
+After completing my degree at the University of Colorado Boulder, I was accepted to the department of computer science at the University of British Columbia in Vancouver. My current research focuses on creating more princpled gradient based policy optimization algorithms for reinforcement learning. I beleive that by viewing [reinforcement learning as statistical inference](https://arxiv.org/pdf/1805.00909.pdf), we can improve our understanding of optimization withing RL. If you would like to get a better idea of the kinds of papers that I am reading through at the moment, check out [my current reading list](WilderLavington.github.io/readinglist).
 
 ---
 
