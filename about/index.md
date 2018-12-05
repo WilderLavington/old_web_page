@@ -51,6 +51,7 @@ I also love traveling, but hate taking pictures. Here a are a few pictures from 
 Ukraine 
 
 Ecuador
+![](assets/ecuador/ecuador1.jpg)
 
 Columbia
 
