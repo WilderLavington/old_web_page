@@ -56,17 +56,5 @@ I also love traveling, here are a few pictures from my travels:
 
 <img src="/assets/ecuador/ecuador1.jpg"  width="360" height="360"><img src="/assets/ecuador/ecuador2.jpg"  width="360" height="360"><img src="/assets/ecuador/ecuador4.jpg"  width="360" height="360">
 
-Columbia
-
-Iceland
-
-Spain
-
-Amsterdam
-
-France
-
-Italy
-
-Canada (of course)
+I have also been to: Columbia, Iceland, Spain, Amsterdam, France, Italy, Belize, and Canada (of course). Hopefully one day I will be a truly international scientist.
 
