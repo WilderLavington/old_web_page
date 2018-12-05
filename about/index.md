@@ -14,6 +14,8 @@ After completing my degree at the University of Colorado Boulder, I was accepted
 # Everything Else!
 For anyone who has visited the peoples republic of Boulder, my disposition and hobbies should come as no surprise. I am a die hard skier and mountainear, and spend what little free time I have in the out doors. While growing up in boulder both my parents climbed/hiked/backpacked as often as possible, and even climbed all 54 14ers in three weeks for a charity! My mother was also a ski instructor most winters growing up so I spent almost every weekend on a pair of boards. After getting out of high school, I took a year off and lived as a ski/mountain biking bum in Durango Colorado (and went to classes a bit too). Now that I am in Vancouver, I have all of whistler and Squamish at my disposle for all the world class climbing, biking, and skiing I could ask for!
 
+---
+
 My top ten favorite mountains (most favorite to least) are:
 1. Steamboat
 2. Teluride
@@ -25,6 +27,8 @@ My top ten favorite mountains (most favorite to least) are:
 8. Crested Butte
 9. Copper
 10. Keystone
+
+---
 
 Top ten bucket list destinations: 
 1. Jackson Hole (USA)
@@ -40,6 +44,7 @@ Top ten bucket list destinations:
 
 
 ---
+
 # Traveling 
 I also love traveling, but hate taking pictures. Here a are a few pictures from my travels:
 
