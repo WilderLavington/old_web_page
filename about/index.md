@@ -52,11 +52,8 @@ Ukraine
 
 Ecuador
 
-<img src="/assets/ecuador/ecuador1.jpg"  width="360" height="360">
-<img src="/assets/ecuador/ecuador2.jpg"  width="360" height="360">
-<img src="/assets/ecuador/ecuador3.jpg"  width="360" height="360">
-<img src="/assets/ecuador/ecuador4.jpg"  width="360" height="360">
-<img src="/assets/ecuador/ecuador6.jpg"  width="360" height="360">
+<img src="/assets/ecuador/ecuador1.jpg"  width="360" height="360"><img src="/assets/ecuador/ecuador2.jpg"  width="360" height="360"><img src="/assets/ecuador/ecuador4.jpg"  width="360" height="360"><img src="/assets/ecuador/ecuador6.jpg"  width="360" height="360">
+<img src="/assets/ecuador/ecuador3.jpg"  width="540" height="360">
 
 Columbia
 
