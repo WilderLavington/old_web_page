@@ -52,7 +52,7 @@ Ukraine
 
 Ecuador
 ![Ecuador](/assets/ecuador/ecuador1.jpg)
-<img src="/assets/ecuador/ecuador1.jpg"  width="720" height="720">
+<img src="/assets/ecuador/ecuador1.jpg"  width="360" height="360">
 
 
 Columbia
