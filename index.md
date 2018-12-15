@@ -6,7 +6,6 @@ reinforcement learning, and variational inference. I have also contributed to re
 biology, specifically working on a project that modeled R-Loop formation within CRISPR-Cas9 genetic engineering systems. 
 [Read more about my life...](https://wilderlavington.github.io/about/).
 
-<img src="/assets/profile.png"  width="180" height="270">
 
 
 
