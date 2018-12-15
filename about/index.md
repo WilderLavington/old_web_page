@@ -1,5 +1,5 @@
 # My Academic Life Thus Far
-Originally from Boulder Colorado, USA; After a breif haitus in Durango CO after highschool, I completed both my under graduate and masters degrees in applied mathematics at the University of Colorado Boulder. During my time at CU, much of my education was focused on applied mathematical analysis in both statistics, as well as numerics. In During the third year I began work under proffessor [Manuel Lladser](https://amath.colorado.edu/faculty/lladser/), whose research focuses on probability theory and mathematical biology. 
+Originally from Boulder Colorado, USA; After a breif haitus in Durango CO after highschool, I completed both my under graduate and masters degrees in applied mathematics at the University of Colorado Boulder. During my time at CU, much of my education was focused on mathematical analysis in both statistics and probability theory, as well as numerics. During the third year as an undergraduate I began work under proffessor [Manuel Lladser](https://amath.colorado.edu/faculty/lladser/), whose research focuses on probability theory and mathematical biology. 
 
 ---
 
