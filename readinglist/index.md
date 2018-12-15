@@ -1,5 +1,5 @@
 ## This is my Reading List
-These are some of the papers that I have been reading over the last month that caught my attention. They are ordered based upon the year that I was looking through them, as well as the genre of research that encompassed them. This reading list will hohpefully be a reminder of some of the topics that I have already looked into, and the papers that I have enjoyed the survey those topics. Additionally, I hope that This checklist will help create a more cogent story of my research interests within Optimization, Reinforcement Learning and Statistical Inference. If you see something intersting, click on the title to read more about it!
+These are some of the papers that I have been reading over that caught my attention for whatever reason. They are ordered based upon the year that I was looking through them, as well as the genre of research that encompassed them. This reading list will hohpefully be a reminder of some of the topics that I have already looked into, and the papers that I have enjoyed that survey those topics. Additionally, I hope that this list will help create a more cogent story of my research interests within optimization, reinforcement rearning and statistical inference. If you see something intersting, click on the title to read more about it!
 
 ## 2018 
 ### Policy Gradient Methods
