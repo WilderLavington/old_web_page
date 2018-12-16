@@ -19,6 +19,8 @@ These are some of the papers that I have been reading over that caught my attent
 [ ](http://stackoverflow.com)  
 * High Dimensional Continuous Control Using Generalized Advantage Estimation
 [ ](http://stackoverflow.com)  
+* Natural Gradients in Practice: Non-Conjugate Variational Inference in Gaussian Proccess Models
+[ ](http://stackoverflow.com)  
 
 ### Reinforcement Learning as Probabalistic Inference
 * Reinforcement Learning and Control as Probabalistic Inference
