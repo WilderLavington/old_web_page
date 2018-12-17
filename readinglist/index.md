@@ -25,6 +25,8 @@ These are some of the papers that I have been reading over that caught my attent
 ### Reinforcement Learning as Probabalistic Inference
 * Reinforcement Learning and Control as Probabalistic Inference
 [ ](http://stackoverflow.com)  
+* Inference Compilation and Universal Probabalistic Programming
+[ ](http://stackoverflow.com)  
 
 ### Inverse Reinforcement Learning + Imitation Learning
 * Multi-Task Causal Entropy Inverse Reinforcement Learning
