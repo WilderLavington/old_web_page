@@ -9,7 +9,7 @@ For anyone who has visited the peoples republic of Boulder, my disposition and h
 I also love traveling, here are a few pictures from my travels:
 
 ## Ukraine 
-<a href="url"><img src="https://wilderlavington.github.io/assets/ukraine/ukraine1.jpg" height="auto" width="400" style="border-radius:50%"></a>
+<div style="text-align:center"><a href="url"><img src="https://wilderlavington.github.io/assets/ukraine/ukraine1.jpg" height="auto" width="400" style="border-radius:50%"></a></div>
 <a href="url"><img src="https://wilderlavington.github.io/assets/ukraine/ukraine3.jpg" height="auto" width="400" style="border-radius:50%"></a>
 <a href="url"><img src="https://wilderlavington.github.io/assets/ukraine/ukraine2.jpg" height="auto" width="400" style="border-radius:50%"></a>
 
