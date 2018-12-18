@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Wow! Someone is on my website, that means I've finally made it!
 
 My name is Jonathan Wilder lavington, and I'm currently a PhD student at the University of British Columbia, 
