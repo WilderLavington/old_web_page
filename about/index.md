@@ -10,18 +10,18 @@ For anyone who has visited the peoples republic of Boulder, my disposition and h
 I also love traveling, here are a few pictures from my travels:
 
 ## Ukraine 
-<div style="text-align:center"><a href="url"><img src="https://wilderlavington.github.io/assets/ukraine/ukraine1.jpg" height="auto" width="400" style="border-radius:50%"></a></div>
+<div style="text-align:center"><a href="url"><img src="https://wilderlavington.github.io/assets/ukraine/ukraine1.jpg" height="auto" width="600" style="border-radius:50%"></a></div>
 
-<div style="text-align:center"><a href="url"><img src="https://wilderlavington.github.io/assets/ukraine/ukraine2.jpg" height="auto" width="400" style="border-radius:50%"></a></div>
+<div style="text-align:center"><a href="url"><img src="https://wilderlavington.github.io/assets/ukraine/ukraine2.jpg" height="auto" width="600" style="border-radius:50%"></a></div>
 
-<div style="text-align:center"><a href="url"><img src="https://wilderlavington.github.io/assets/ukraine/ukraine3.jpg" height="auto" width="400" style="border-radius:50%"></a></div>
+<div style="text-align:center"><a href="url"><img src="https://wilderlavington.github.io/assets/ukraine/ukraine3.jpg" height="auto" width="600" style="border-radius:50%"></a></div>
 
 ## Ecuador
-<div style="text-align:center"><a href="url"><img src="https://wilderlavington.github.io/assets/ecuador/ecuador1.jpg" height="auto" width="400" style="border-radius:50%"></a></div>
+<div style="text-align:center"><a href="url"><img src="https://wilderlavington.github.io/assets/ecuador/ecuador1.jpg" height="auto" width="600" style="border-radius:50%"></a></div>
 
-<div style="text-align:center"><a href="url"><img src="https://wilderlavington.github.io/assets/ecuador/ecuador2.jpg" height="auto" width="400" style="border-radius:50%"></a></div>
+<div style="text-align:center"><a href="url"><img src="https://wilderlavington.github.io/assets/ecuador/ecuador2.jpg" height="auto" width="600" style="border-radius:50%"></a></div>
 
-<div style="text-align:center"><a href="url"><img src="https://wilderlavington.github.io/assets/ecuador/ecuador3.jpg" height="auto" width="400" style="border-radius:50%"></a></div>
+<div style="text-align:center"><a href="url"><img src="https://wilderlavington.github.io/assets/ecuador/ecuador3.jpg" height="auto" width="600" style="border-radius:50%"></a></div>
 
 I have also been to: Columbia, Iceland, Spain, Amsterdam, France, Italy, Belize, and Canada (of course). Hopefully one day I will be a truly international scientist.
 
