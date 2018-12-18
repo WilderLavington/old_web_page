@@ -1,6 +1,3 @@
----
-layout: default
----
 
 # Wow! Someone is on my website, that means I've finally made it!
 
