@@ -13,6 +13,7 @@ I also love traveling, here are a few pictures from my travels:
 <img src="/assets/ukraine/ukraine2.jpg"  width="360" height="360"><img src="/assets/ukraine/ukraine3.jpg"  width="360" height="360"><img src="/assets/ukraine/ukraine4.jpg"  width="360" height="360">
 
 ## Ecuador
+<a href="url"><img src="https://wilderlavington.github.io/assets/ecuador/ecuador1.jpg" height="auto" width="200" style="border-radius:50%"></a>
 
 <img src="/assets/ecuador/ecuador1.jpg"  width="360" height="360"><img src="/assets/ecuador/ecuador2.jpg"  width="360" height="360"><img src="/assets/ecuador/ecuador4.jpg"  width="360" height="360">
 
