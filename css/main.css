@@ -12,10 +12,12 @@ nav ul, footer ul {
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
+    font-family: 'Courier New';
 }
 a {
     text-decoration: none;
     color: #999;
+    font-family: 'Courier New';
 }
 a:hover {
     text-decoration: underline;
@@ -28,15 +30,18 @@ p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
+    font-family: 'Courier New';
 }
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
+    font-family: 'Courier New';
 }
 
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
+    font-family: 'Courier New';
 }
 
 ul.posts li {
