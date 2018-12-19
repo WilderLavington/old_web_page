@@ -41,10 +41,8 @@ footer {
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.25em;
-    font-family: 'Courier New';
 }
 
 ul.posts li {
     list-style: none;
-    font-family: 'Courier New';
 }
