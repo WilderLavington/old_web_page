@@ -256,7 +256,8 @@ def train_policy(epochs, grid, samples, T, discount, alpha, sd):
         optimizer.step()
         
         # print loss
-        print("current loss at iteration: " + str(epoch/epochs) + ", with loss: " + str(loss) + ", ends in state: " + str(state_tensor[:,-1,0]), end='\r')
+        print("current loss at iteration: " + str(epoch/epochs) + ", \
+        with loss: " + str(loss) + ", ends in state: " + str(state_tensor[:,-1,0]), end='\r')
         
         # store loss
         loss_per_iteration[epoch] = loss
@@ -298,7 +299,8 @@ policy, loss_per_iteration, cr_per_iteration = train_policy(iterations, grid, 10
 
 ```
 
-    tensor([0., 5.]) tensor(1000.) tensor(3.)ss: tensor(73844.0547, grad_fn=<DivBackward0>), ends in state: tensor([0., 5.])
+    tensor([0., 5.]) tensor(1000.) tensor(3.)ss: tensor(73844.0547, grad_fn=<DivBackward0>), 
+    ends in state: tensor([0., 5.])
 
 ## Now lets plot everything 
 
