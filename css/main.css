@@ -16,7 +16,6 @@ body {
     background-image: url("background.jpg");
     background-attachment: fixed;
     background-size: cover;
-    background-blend-mode: lighten;
     font-family: 'Courier New';
     margin: 60px auto;
     width: 50%;
