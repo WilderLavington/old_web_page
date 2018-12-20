@@ -1,7 +1,7 @@
 div.transbox {
-  margin: 30px;
+  margin: 50px;
   background-color: #ffffff;
-  opacity: 0.7;
+  opacity: 0.75;
   filter: alpha(opacity=100); /* For IE8 and earlier */
 }
 
@@ -15,6 +15,7 @@ body {
     background-image: url("background.jpg");
     background-attachment: fixed;
     background-size: cover;
+    background-blend-mode: lighten;
     font-family: 'Courier New';
     margin: 60px auto;
     width: 50%;
