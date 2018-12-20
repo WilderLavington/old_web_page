@@ -1,12 +1,13 @@
 div.transbox {
-  margin: 50px;
+  margin: 30px;
   background-color: #ffffff;
   opacity: 0.75;
   filter: alpha(opacity=100); /* For IE8 and earlier */
 }
 
 div.transbox p {
-  margin: 10%;
+  margin: 5%;
+  padding:2em;
   font-weight: bold;
   color: #000000;
 }
