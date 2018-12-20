@@ -1,9 +1,3 @@
-div.background {
-  background-image: url("background.jpg");
-  background-attachment: fixed;
-  background-size: cover;
-}
-
 div.transbox {
   margin: 30px;
   background-color: #ffffff;
@@ -50,11 +44,6 @@ h1 {
     font-family: 'Courier New'
 }
 p {
-    margin: 30px;
-    background-color: #ffffff;
-    border: 1px solid black;
-    opacity: 0.7;
-    filter: alpha(opacity=100); /* For IE8 and earlier */
     font-size: 1.25em;
     line-height: 1.4em;
     color: #000000;
