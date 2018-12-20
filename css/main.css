@@ -78,6 +78,7 @@ ul.posts li {
   padding: 10px;
 }
 img {
+    opacity: 0.9;
     max-width: 100%;
     max-height: 100%;
 }
