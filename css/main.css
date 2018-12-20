@@ -1,5 +1,7 @@
 body {
     background-image: url("background.jpg");
+    background-attachment: fixed;
+    background-size: cover;
     font-family: 'Courier New';
     margin: 60px auto;
     width: 50%;
