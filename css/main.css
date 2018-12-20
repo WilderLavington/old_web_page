@@ -46,6 +46,5 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
-    font-family: 'Courier New';
     font-family: Monaco; 
 }
