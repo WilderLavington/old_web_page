@@ -41,8 +41,8 @@ nav ul li, footer ul li {
     opacity: 1.0;
     font-weight: bold;
     display: inline;
-    margin-right: 30px;
-    margin-left: 30px;
+    margin-right: 10px;
+    margin-left: 10px;
     font-family: 'Courier New';
 }
 a {
@@ -61,6 +61,8 @@ h1 {
     font-family: 'Courier New'
 }
 p {
+    margin-right: 10px;
+    margin-left: 10px;
     opacity: 1.0;
     font-size: 1.25em;
     line-height: 1.4em;
@@ -68,6 +70,8 @@ p {
     font-family: 'Courier New';
 }
 footer {
+    margin-right: 10px;
+    margin-left: 10px;
     opacity: 1.0;
     border-top: 1px solid #d5d5d5;
     font-size: .95em;
