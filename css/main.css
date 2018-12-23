@@ -24,7 +24,9 @@ nav ul, footer ul {
     list-style: none;
     font-weight: bold;
     color: white;
+    background: rgba(94, 234, 87, 0.7);
 }
+
 nav ul li, footer ul li {
     opacity: 1.0;
     font-weight: bold;
@@ -32,6 +34,7 @@ nav ul li, footer ul li {
     font-family: 'Courier New';
     color: white;
 }
+
 a {
     text-decoration: none;
     color: #299;
