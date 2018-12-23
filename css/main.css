@@ -1,5 +1,5 @@
 /* div {
-  background: rgba(94, 234, 87, 0.7);
+  background: rgba(141, 165, 140, 0.7);
   border-radius: 300px;
   text-align: center;
   line-height: 350px;
@@ -42,7 +42,7 @@ nav ul, footer ul {
     list-style: none;
     font-weight: bold;
     color: white;
-    background: rgba(94, 234, 87, 0.7);
+    background: rgba(141, 165, 140, 0.7);
 }
 
 nav ul li, footer ul li {
@@ -69,7 +69,7 @@ h1 {
     font-size: 1.75em;
     font-family: 'Courier New'
     color: white;
-    background: rgba(94, 234, 87, 0.7);
+    background: rgba(141, 165, 140, 0.7);
 }
 p {
     opacity: 1.0;
@@ -78,7 +78,7 @@ p {
     color: #000000;
     font-family: 'Courier New';
     color: white;
-    background: rgba(94, 234, 87, 0.7);
+    background: rgba(141, 165, 140, 0.7);
 }
 footer {
     opacity: 1.0;
