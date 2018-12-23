@@ -1,10 +1,10 @@
 div {
   background: rgba(100, 10, 10, 0.7);
-  border-radius: 30px;
+  border-radius: 300px;
   text-align: center;
   line-height: 250px;
   color: white;
-  margin: 0 auto;
+  margin: 10 auto;
 }
 
 body {
