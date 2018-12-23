@@ -1,5 +1,5 @@
 div.transbox {
-  margin: 1px;
+  margin: 0px;
   background-color: #ffffff;
   opacity: 0.75;
   font-weight: bold;
@@ -7,14 +7,14 @@ div.transbox {
 }
 
 div.transbox p {
-  margin: 1%;
+  margin: 0%;
   font-weight: bold;
   color: #000000;
   padding: 0.7em
 }
 
 div.column {
-  margin: 5%;
+  margin: 10%;
   font-weight: bold;
   color: #000000;
 }
@@ -26,12 +26,12 @@ body {
     font-family: 'Courier New';
     font-weight: bold;
     opacity: 1.0;
-    margin: 10px auto;
+    margin: 0px auto;
     width: 50%;
 }
 nav ul, footer ul {
     font-family: 'Courier New';
-     font-weight: bold;
+    font-weight: bold;
     opacity: 1.0;
     list-style: none;
     font-weight: bold;
@@ -66,7 +66,7 @@ p {
 }
 footer {
     opacity: 1.0;
-    border-top: 1px solid #d5d5d5;
+    border-top: 10px solid #d5d5d5;
     font-size: .95em;
     font-family: 'Courier New';
 }
@@ -82,10 +82,6 @@ ul.posts li {
     opacity: 1.0;
     list-style: none;
     font-family: Times; 
-}
-
-* {
-  box-sizing: border-box;
 }
 
 img {
