@@ -1,10 +1,10 @@
-div {
+/* div {
   background: rgba(94, 234, 87, 0.7);
   border-radius: 300px;
   text-align: center;
   line-height: 350px;
   color: white;
-}
+} */
 
 body {
     background-image: url("background.jpg");
@@ -48,6 +48,7 @@ h1 {
     font-size: 1.75em;
     font-family: 'Courier New'
     color: white;
+    background: rgba(94, 234, 87, 0.7);
 }
 p {
     opacity: 1.0;
@@ -56,6 +57,7 @@ p {
     color: #000000;
     font-family: 'Courier New';
     color: white;
+    background: rgba(94, 234, 87, 0.7);
 }
 footer {
     opacity: 1.0;
@@ -63,6 +65,7 @@ footer {
     font-size: .95em;
     font-family: 'Courier New';
     color: white;
+    background: rgba(94, 234, 87, 0.7);
 }
 
 img {
