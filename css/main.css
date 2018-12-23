@@ -2,7 +2,7 @@ div {
   background: rgba(94, 234, 87, 0.7);
   border-radius: 300px;
   text-align: center;
-  line-height: 250px;
+  line-height: 350px;
   color: white;
   margin: 10 auto;
 }
@@ -14,7 +14,8 @@ body {
     font-family: 'Courier New';
     font-weight: bold;
     opacity: 1.0;
-    margin: 0px auto;
+    color: white;
+    margin: 10px auto;
     width: 50%;
 }
 nav ul, footer ul {
@@ -23,18 +24,21 @@ nav ul, footer ul {
     opacity: 1.0;
     list-style: none;
     font-weight: bold;
+    color: white;
 }
 nav ul li, footer ul li {
     opacity: 1.0;
     font-weight: bold;
     display: inline;
     font-family: 'Courier New';
+    color: white;
 }
 a {
     text-decoration: none;
     color: #299;
     opacity: 1.0;
     font-family: 'Courier New';
+    color: white;
 }
 a:hover {
     opacity: 1.0;
@@ -44,6 +48,7 @@ h1 {
     opacity: 1.0;
     font-size: 1.75em;
     font-family: 'Courier New'
+    color: white;
 }
 p {
     opacity: 1.0;
@@ -51,25 +56,14 @@ p {
     line-height: 1.4em;
     color: #000000;
     font-family: 'Courier New';
+    color: white;
 }
 footer {
     opacity: 1.0;
     border-top: 10px solid #d5d5d5;
     font-size: .95em;
     font-family: 'Courier New';
-}
-
-ul.posts { 
-    opacity: 1.0;
-    margin: 20px auto 40px; 
-    font-size: 1.25em;
-    font-family: Times; 
-}
-
-ul.posts li {
-    opacity: 1.0;
-    list-style: none;
-    font-family: Times; 
+    color: white;
 }
 
 img {
