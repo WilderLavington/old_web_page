@@ -1,16 +1,12 @@
-div.transbox {
-  margin: 0px;
-  background-color: #ffffff;
-  opacity: 0.75;
-  font-weight: bold;
-  filter: alpha(opacity=100); /* For IE8 and earlier */
-}
-
-div.transbox p {
-  margin: 0%;
-  font-weight: bold;
-  color: #000000;
-  padding: 0.7em;
+div {
+  background: rgba(100, 10, 10, 0.7);
+  width: 300px;
+  height: 250px;
+  border-radius: 30px;
+  text-align: center;
+  line-height: 250px;
+  color: white;
+  margin: 0 auto;
 }
 
 div.column {
