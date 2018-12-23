@@ -9,6 +9,10 @@ div {
   margin: 0 auto;
 }
 
+* {
+  box-sizing: border-box;
+}
+
 div.column {
   opacity: 1.0;
   margin: 10%;
@@ -20,10 +24,6 @@ div.column {
   opacity: 1.0;
   display: table;
   clear: both;
-}
-
-* {
-  box-sizing: border-box;
 }
 
 body {
