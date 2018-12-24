@@ -74,7 +74,7 @@ a:hover {
 }
 h1 {
     opacity: 1.0;
-    font-size: 1.75em;
+    font-size: 1.5em;
     font-family: 'Courier New'
     color: white;
     background: rgba(141, 165, 140, 0.7);
@@ -82,7 +82,7 @@ h1 {
 }
 h2 {
     opacity: 1.0;
-    font-size: 1.75em;
+    font-size: 1.5em;
     font-family: 'Courier New'
     color: white;
     background: rgba(141, 165, 140, 0.7);
@@ -90,7 +90,7 @@ h2 {
 }
 h3 {
     opacity: 1.0;
-    font-size: 1.75em;
+    font-size: 1.5em;
     font-family: 'Courier New'
     color: white;
     background: rgba(141, 165, 140, 0.7);
