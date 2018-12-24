@@ -23,6 +23,15 @@
   display: table;
   clear: both;
 }
+div.notecomments {
+  background: rgba(141, 165, 140, 0.7);
+}
+div.notebody {
+  background: rgba(141, 165, 140, 0.7);
+}
+div.date {
+  background: rgba(141, 165, 140, 0.7);
+}
 
 body {
     background-image: url("background.jpg");
