@@ -27,6 +27,7 @@ html {
 }
 body {
   margin: 0;
+  width: 100%;
 }
 article,
 aside,
