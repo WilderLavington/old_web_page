@@ -6,8 +6,10 @@ Below I have included a few of the projects that I have completed over the past 
 [Imitation Learning Tutorial and Overview](https://wilderlavington.github.io/presentations/presentations/Imitation_Learning.pdf)  
 This presentation was created for the machine learning reading group at UBC and was based upon various papers surrounding 
 maximum entropy reainforcement learning, inverse reinforcement learning, apprentishp learning, and of course imitation learning. The presentation was mainly focused on making explicit connections between these seemingly disjoint topics in a rigourous but interpretable fashion.
+
 [Pi calculus Tutorial and Overview](https://wilderlavington.github.io/presentations/presentations/Programming_Language_Principles_Presentation.pdf)   
 This was presented in a programming language principles course tought by Ron Garcia that focused on a specific forn of proccess calculus known as pi calculus. This calcus is used to model how information is passed from servers to clients in from a rigorous PL perspective, and is relevent in software engineering and network security.
+
 [Variational Autoencoders Tutorial and Overview](https://wilderlavington.github.io/presentations/presentations/VAE_presentation.pdf)   
 This presentation was created for a probabalitsic programming course taught by Frank Wood, and focuses on three seminal papers that form the genesis of modern variational autoencoders. Aside from giving a breif summary of these papers, we also attempt to inform how each relates to another. Additionally, we give a breif overview of current topics in VAEs.
 
