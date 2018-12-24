@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Ongoing Machine Learning Notes: Variance Reduction and the Generalized Advantage Estimator"
+date: 2018-12-30
+---
 <!DOCTYPE html>
 <html>
 <head><meta charset="utf-8" />
