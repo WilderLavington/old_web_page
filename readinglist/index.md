@@ -3,43 +3,43 @@ These are some of the papers that I have been reading over that caught my attent
 
 ## 2018 
 ### Policy Gradient Methods
-* Reletive Entropy Policy Search
+Reletive Entropy Policy Search
 [ ](http://stackoverflow.com)  
-* Natural Policy Gradients
+Natural Policy Gradients
 [ ](http://stackoverflow.com)  
-* Policy Gradient Methods for Reinforcement Learning with Function Approximation
+Policy Gradient Methods for Reinforcement Learning with Function Approximation
 [ ](http://stackoverflow.com)  
-* Proximal Policy Optimization
+Proximal Policy Optimization
 [ ](http://stackoverflow.com)  
-* Trust Region Policy Optimimzation
+Trust Region Policy Optimimzation
 [ ](http://stackoverflow.com)  
-* Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning
+Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning
 [ ](http://stackoverflow.com)  
-* IMPALA: Scalable Distributed Deep-RL With Importance Weighted Actor-Learner Architectures
+IMPALA: Scalable Distributed Deep-RL With Importance Weighted Actor-Learner Architectures
 [ ](http://stackoverflow.com)  
-* High Dimensional Continuous Control Using Generalized Advantage Estimation
+High Dimensional Continuous Control Using Generalized Advantage Estimation
 [ ](http://stackoverflow.com)  
-* Natural Gradients in Practice: Non-Conjugate Variational Inference in Gaussian Proccess Models
+Natural Gradients in Practice: Non-Conjugate Variational Inference in Gaussian Proccess Models
 [ ](http://stackoverflow.com)  
 
 ### Reinforcement Learning as Probabalistic Inference
-* Reinforcement Learning and Control as Probabalistic Inference
+Reinforcement Learning and Control as Probabalistic Inference
 [ ](http://stackoverflow.com)  
-* Inference Compilation and Universal Probabalistic Programming
+Inference Compilation and Universal Probabalistic Programming
 [ ](http://stackoverflow.com)  
 
 ### Inverse Reinforcement Learning + Imitation Learning
-* Multi-Task Causal Entropy Inverse Reinforcement Learning
+Multi-Task Causal Entropy Inverse Reinforcement Learning
 [ ](http://stackoverflow.com)  
-* Self Imitation Learning
+Self Imitation Learning
 [ ](http://stackoverflow.com)  
-* Generative Adversarial Imitation Learning
+Generative Adversarial Imitation Learning
 [ ](http://stackoverflow.com)  
-* Spatio-temporal Bayesian On-line Changepoint Detection with Model-Selection
+Spatio-temporal Bayesian On-line Changepoint Detection with Model-Selection
 [ ](http://stackoverflow.com)  
-* Model Free Imitation Learning with Policy Optimization
+Model Free Imitation Learning with Policy Optimization
 [ ](http://stackoverflow.com)  
-* Non-Parametric Bayesian Inverse Reinforcement Learning for Multiple Reward Functions
+Non-Parametric Bayesian Inverse Reinforcement Learning for Multiple Reward Functions
 [ ](http://stackoverflow.com)  
-* Transfer Learning for Reinforcement Learning With Dependent Dirichlet Proccess and Gaussian Proccess
+Transfer Learning for Reinforcement Learning With Dependent Dirichlet Proccess and Gaussian Proccess
 [ ](http://stackoverflow.com)  
