@@ -15,3 +15,15 @@ I also love traveling, and have been to: Ecuador, Columbia, Iceland, Ukraine, Sp
 
 <div style="text-align:center"><a href="url"><img src="https://wilderlavington.github.io/assets/ecuador/ecuador3.jpg" height="auto" width="600" style="border-radius:50%"></a></div>
 
+<body>
+ <div class="row">
+     <div class="column">
+       <p> 
+            I also love traveling, and have been to: Ecuador, Columbia, Iceland, Ukraine, Spain, Amsterdam, France, Italy, Belize, and Canada (of course). Hopefully one day I will be a truly international scientist. Here are a few pictures from my travels:
+         </p>
+     </div>
+     <div class="column">
+         <img src="assets/ecuador/ecuador1" alt="Missing">
+     </div>
+   </div>
+</body>
