@@ -15,7 +15,7 @@ For anyone who has visited the peoples republic of Boulder, my disposition and h
          </p>
      </div>
      <div class="column">
-         <img src="https://github.com/WilderLavington/WilderLavington.github.io/blob/master/assets/ecuador/ecuador1.jpg" alt="Missing">
+         <img src="assets/ecuador/ecuador1.jpg" alt="Missing">
      </div>
    </div>
 </body>
