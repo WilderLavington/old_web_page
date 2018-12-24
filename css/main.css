@@ -73,6 +73,14 @@ h1 {
     background: rgba(141, 165, 140, 0.7);
     padding: 10px;
 }
+h2 {
+    opacity: 1.0;
+    font-size: 1.75em;
+    font-family: 'Courier New'
+    color: white;
+    background: rgba(141, 165, 140, 0.7);
+    padding: 10px;
+}
 p {
     opacity: 1.0;
     font-size: 1.0em;
