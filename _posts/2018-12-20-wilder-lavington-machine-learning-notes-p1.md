@@ -27,7 +27,6 @@ html {
 }
 body {
   margin: 0;
-  object-fit: cover;
 }
 article,
 aside,
