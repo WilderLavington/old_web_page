@@ -98,7 +98,5 @@ img {
 }
 
 embed {
-    max-width: 100%;
-    height: auto;
-    width: auto\9; /* ie8 */
+    width: 50%;
 }
