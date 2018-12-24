@@ -41,7 +41,7 @@ nav ul, footer ul {
     opacity: 1.0;
     list-style: none;
     font-weight: bold;
-    color: white;
+    color: rgba(141, 165, 140, 0.7);
     background: rgba(141, 165, 140, 0.7);
     padding: 10px;
 }
@@ -51,7 +51,7 @@ nav ul li, footer ul li {
     font-weight: bold;
     display: inline;
     font-family: 'Courier New';
-    color: white;
+    color: rgba(141, 165, 140, 0.7);
 }
 
 a {
@@ -59,7 +59,7 @@ a {
     color: #299;
     opacity: 1.0;
     font-family: 'Courier New';
-    color: white;
+    color: rgba(141, 165, 140, 0.7);
 }
 a:hover {
     opacity: 1.0;
@@ -88,7 +88,7 @@ footer {
     border-top: 10px solid #d5d5d5;
     font-size: .95em;
     font-family: 'Courier New';
-    color: white;
+    color: rgba(141, 165, 140, 0.7);
 }
 
 img {
@@ -97,7 +97,3 @@ img {
     width: auto\9; /* ie8 */
 }
 
-embed {
-    width: 100%;
-    height: 100%;
-}
