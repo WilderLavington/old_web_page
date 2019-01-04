@@ -285,9 +285,6 @@ policy, loss_per_iteration, cr_per_iteration = train_policy(iterations, grid, si
 
     tensor([0., 5.]) tensor(100000.) tensor(1.): tensor(1874180.3750, grad_fn=<DivBackward0>), ends in state: tensor([0., 5.])
 
-## Improving Efficiency of the Trust Region Update: 
-
-
 ## Now lets plot everything 
 
 
@@ -301,7 +298,7 @@ plt.show()
 ```
 
 
-![png](output_9_0.png)
+![png](output_8_0.png)
 
 
 
@@ -314,7 +311,7 @@ plt.show()
 ```
 
 
-![png](output_10_0.png)
+![png](output_9_0.png)
 
 
 
