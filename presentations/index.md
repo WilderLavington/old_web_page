@@ -14,5 +14,5 @@ This was presented in a programming language principles course tought by Ron Gar
 This presentation was created for a probabalitsic programming course taught by Frank Wood, and focuses on three seminal papers that form the genesis of modern variational autoencoders. Aside from giving a breif summary of these papers, we also attempt to inform how each relates to another. Additionally, we give a breif overview of current topics in VAEs.
 
 ## 2017
-[Leveraging Graph Diversity Under Constraints](https://wilderlavington.github.io/presentations/presentations/Leveraging_Graphical_Diversity_Under_Constraints_to_Predict_Structure.pdf)
+[Leveraging Graph Diversity Under Constraints](https://wilderlavington.github.io/presentations/presentations/Leveraging_Graphical_Diversity_Under_Constraints_to_Predict_Structure.pdf)    
 This presentation was created for a network analysis and modeling course taught by Aaron Clausett, and focused on how restricting specific structural elements within networks, we can infer other structural constraints. Addionally, we showed that the joint joint degree distribution could act as a unique similarty metric under such constraints, allowing us to accuratly predict the random graph structure that a given graph was sampled from. 
