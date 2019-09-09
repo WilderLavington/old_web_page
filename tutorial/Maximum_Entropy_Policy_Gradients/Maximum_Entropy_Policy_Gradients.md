@@ -122,6 +122,7 @@ class GRID_WORLD():
         action_tensor = torch.zeros((T, samples), requires_grad = False)
         # iterate through all states and actions
         for sample in range(samples):
+            current_state =  deepcopy(self.start_state)
             for t in range(T):
                 # store values
                 state_tensor[:,t,sample] = torch.FloatTensor(current_state)
